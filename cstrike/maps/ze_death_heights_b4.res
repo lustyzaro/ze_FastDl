@@ -1,0 +1,16 @@
+sound/ze_death_heights/death_aaah.wav
+sound/ze_death_heights/death_amb.wav
+sound/ze_death_heights/death_explosion.wav
+sound/ze_death_heights/death_heli.wav
+sound/ze_death_heights/death_message.wav
+sound/ze_death_heights/death_sucks.wav
+sound/ze_death_heights/death_suspense.wav
+sound/ze_death_heights/death_gtav_teme2.wav
+models/ze_death_heights/death_girlcrs.mdl
+sprites/ze_death_heights/death_fexplo.spr
+sprites/ze_death_heights/death_fire1.spr
+sprites/ze_death_heights/death_fire2.spr
+sprites/ze_death_heights/death_smoke.spr
+maps/ze_death_heights_b4.bsp
+maps/ze_death_heights_b4.txt
+maps/ze_death_heights_b4.res

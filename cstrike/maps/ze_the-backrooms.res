@@ -1,0 +1,16 @@
+gfx/env/spacebk.tga
+gfx/env/spacedn.tga
+gfx/env/spaceft.tga
+gfx/env/spacelf.tga
+gfx/env/spacert.tga
+gfx/env/spaceup.tga
+models/player/gsg9/gsg9.mdl
+models/player/guerilla/guerilla.mdl
+models/ze_backrooms/fake_sky.mdl
+models/ze_backrooms/me3_TableLab05.mdl
+models/ze_backrooms/sky_backrooms.mdl
+sound/ze_backrooms/compromises.wav
+sound/ze_backrooms/explosion_final.wav
+sound/ze_backrooms/light_humming.wav
+sound/ze_backrooms/scream1.wav
+sound/ze_backrooms/still_life.wav

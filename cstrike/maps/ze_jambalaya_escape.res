@@ -1,0 +1,2 @@
+maps/zm_jambalaya_escape.res
+maps/zm_jambalaya_escape.txt
